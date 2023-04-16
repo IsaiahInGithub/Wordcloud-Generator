@@ -4,7 +4,7 @@ A wordcloud generator with a user interface and all kinds of customization choic
 # Download
 Step 1: Install Git if you haven't already.
 </br>
-Step 2: First download the Github repository by running this command:</br>
+Step 2: Download the Github repository by running this command:</br>
 ``` git clone https://github.com/IsaiahInGithub/Wordcloud-Generator```.
 </br>
 Step 3: To download the app, please run the following command in the project directory:
