@@ -7,7 +7,7 @@ Step 1: Install Git if you haven't already.
 </br>
 Step 2: Download the latest release of this app</br>
 </br>
-Step 3: To download the app, please run the following command in the project directory:
+Step 3: To install the app, please run the following command in the project directory:
 </br>
 ```python setup.py build```
 </br>
